@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="NetManage">
+      <UniqueIdentifier>{f51aa4b5-619e-435d-b790-abd8f5228010}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\OutLibFile_H">
+      <UniqueIdentifier>{62218804-cb70-4671-82b0-ee67ee0dce12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\OutLib_CPP">
+      <UniqueIdentifier>{f4fe0649-75d0-4eae-8ac3-c96c306e0c91}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="OneCardSys.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OneCardSysDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Picture1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GetInfoPer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="NetManager\netstructcolletion.h">
+      <Filter>NetManage</Filter>
+    </ClInclude>
+    <ClInclude Include="NetManager\netmanager.h">
+      <Filter>NetManage</Filter>
+    </ClInclude>
+    <ClInclude Include="NetManager\netenumcollection.h">
+      <Filter>NetManage</Filter>
+    </ClInclude>
+    <ClInclude Include="NetManager\netdefcollection.h">
+      <Filter>NetManage</Filter>
+    </ClInclude>
+    <ClInclude Include="GetOwerInfo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SysMainUi.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FaceOper.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FaceGroupAdd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PerReg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PerModify.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VistorsOper.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SynPublic.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VistorsRecord.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PersComprResult.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LogInfo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PERSONIO.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AddUser.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DeleUser.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="YCodec.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PicUpFaceLib.h">
+      <Filter>头文件\OutLibFile_H</Filter>
+    </ClInclude>
+    <ClInclude Include="HttpPost.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ViSet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PictureToBinSys.h">
+      <Filter>头文件\OutLibFile_H</Filter>
+    </ClInclude>
+    <ClInclude Include="WintnessCheck.h">
+      <Filter>头文件\OutLibFile_H</Filter>
+    </ClInclude>
+    <ClInclude Include="WintCheckVido.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ExportPicture.h">
+      <Filter>头文件\OutLibFile_H</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="OneCardSys.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OneCardSysDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Picture1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GetInfoPer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GetOwerInfo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SysMainUi.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FaceOper.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FaceGroupAdd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PerReg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PerModify.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="VistorsOper.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="VistorsRecord.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PersComprResult.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LogInfo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PERSONIO.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ExportPicture.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AddUser.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DeleUser.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="YCodec.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PicUpFaceLib.cpp">
+      <Filter>源文件\OutLib_CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="HttpPost.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ViSet.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PictureToBinSys.cpp">
+      <Filter>源文件\OutLib_CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="WintnessCheck.cpp">
+      <Filter>源文件\OutLib_CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="WintCheckVido.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="OneCardSys.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\OneCardSys.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\OneCardSys.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icon1.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="C:\Users\ningzhongbao\Downloads\favicon.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="C:\Users\ningzhongbao\Desktop\ytlogo.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icon2.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ytlogo.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="C:\Users\ningzhongbao\Desktop\ooopic_1537431022.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="C:\Users\ningzhongbao\Desktop\ytlg.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ytlg.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
